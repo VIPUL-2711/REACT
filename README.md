@@ -1,3 +1,3 @@
 # REACT
 
-this is complete react practise repositorie for beginners .
+this repositorie contain complete react practise for beginners .
